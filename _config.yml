@@ -1,19 +1,18 @@
 # Site settings
 title: Enias Cailliau
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
+email: enias.cailliau@outlook.com
 copyright_name: Enias Cailliau
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: "Personal blog featuring AI, Big Data and general Programming."
 baseurl: ""
 url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  StartBootstrap
-email_username:  your-email@yourdomain.com
+twitter_username: ECailliau
+github_username:  EniasCailliau
+email_username:  enias.cailliau@outlook.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
-# google_tracking_id:
+google_tracking_id: UA-73219241-1
 
 # Build settings
 markdown: kramdown
