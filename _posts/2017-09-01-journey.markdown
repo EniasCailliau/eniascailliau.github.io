@@ -2,7 +2,7 @@
 layout:     post
 title:      "Journey.init"
 subtitle:   "Because every story starts with a cover."
-date:       2017-04-10 12:00:00
+date:       2017-09-10 12:00:00
 author:     "Enias Cailliau"
 header-img: "img/the-beginning-ai.jpg"
 ---
