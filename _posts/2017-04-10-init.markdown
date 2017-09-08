@@ -1,0 +1,17 @@
+---
+layout:     post
+title:      "Homepage.init"
+subtitle:   "because they lacked opposable thumbs and the brainpower to build a space program."
+date:       2017-04-10 12:00:00
+author:     "Enias Cailliau"
+header-img: "img/post-bg-01.jpg"
+---
+
+<p>Every blog needs its init page.</p>
+
+<blockquote>The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>
+
+<p>Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.</p>
+
+<h2 class="section-heading">Reaching for the Stars</h2>
+kr.com/photos/nasacommons/">NASA on The Commons</a>.</p>

@@ -1,0 +1,19 @@
+---
+layout:     post
+title:      "Journey.init"
+subtitle:   "Because every story starts with a cover."
+date:       2017-04-10 12:00:00
+author:     "Enias Cailliau"
+header-img: "img/the-beginning-ai.jpg"
+---
+
+
+<h1>Welcome</h1>
+
+Hi. Let me first introduce myself: Enias Cailliau, 22 years, currently studying for a masters degree in computer science. I have a strong interest in Artificial intelligence and big data (so yes, I will be riding the hype train). With that out of the way, let me introduce the purpose of this website. This blog will mainly be used for personal reference and will mention my greatest accomplishments in the field of programming. More specifically, since it's my last year studying for master in computer science it will strongly discuss various AI and BigData topics.
+
+I hope to see you at the next stop of the AI hype train,
+
+Sincerely,
+
+Enias
